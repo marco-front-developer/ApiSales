@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DBSales.Entity/1.0.0": {
+        "runtime": {
+          "DBSales.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DBSales.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

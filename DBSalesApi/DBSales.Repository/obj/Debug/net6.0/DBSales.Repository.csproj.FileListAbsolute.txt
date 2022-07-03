@@ -1,0 +1,15 @@
+D:\Curso_NetCore\Angular\DBSalesApi\DBSales.Repository\bin\Debug\net6.0\DBSales.Repository.deps.json
+D:\Curso_NetCore\Angular\DBSalesApi\DBSales.Repository\bin\Debug\net6.0\DBSales.Repository.dll
+D:\Curso_NetCore\Angular\DBSalesApi\DBSales.Repository\bin\Debug\net6.0\DBSales.Repository.pdb
+D:\Curso_NetCore\Angular\DBSalesApi\DBSales.Repository\bin\Debug\net6.0\DBSales.Entity.dll
+D:\Curso_NetCore\Angular\DBSalesApi\DBSales.Repository\bin\Debug\net6.0\DBSales.Entity.pdb
+D:\Curso_NetCore\Angular\DBSalesApi\DBSales.Repository\obj\Debug\net6.0\DBSales.Repository.csproj.AssemblyReference.cache
+D:\Curso_NetCore\Angular\DBSalesApi\DBSales.Repository\obj\Debug\net6.0\DBSales.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso_NetCore\Angular\DBSalesApi\DBSales.Repository\obj\Debug\net6.0\DBSales.Repository.AssemblyInfoInputs.cache
+D:\Curso_NetCore\Angular\DBSalesApi\DBSales.Repository\obj\Debug\net6.0\DBSales.Repository.AssemblyInfo.cs
+D:\Curso_NetCore\Angular\DBSalesApi\DBSales.Repository\obj\Debug\net6.0\DBSales.Repository.csproj.CoreCompileInputs.cache
+D:\Curso_NetCore\Angular\DBSalesApi\DBSales.Repository\obj\Debug\net6.0\DBSales.Repository.csproj.CopyComplete
+D:\Curso_NetCore\Angular\DBSalesApi\DBSales.Repository\obj\Debug\net6.0\DBSales.Repository.dll
+D:\Curso_NetCore\Angular\DBSalesApi\DBSales.Repository\obj\Debug\net6.0\refint\DBSales.Repository.dll
+D:\Curso_NetCore\Angular\DBSalesApi\DBSales.Repository\obj\Debug\net6.0\DBSales.Repository.pdb
+D:\Curso_NetCore\Angular\DBSalesApi\DBSales.Repository\obj\Debug\net6.0\ref\DBSales.Repository.dll
